@@ -1,0 +1,14 @@
+# 基础依赖
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+Pillow
+
+# 可视化
+seaborn
+
+# 深度学习（Task2 图像异常检测）
+torch
+torchvision
